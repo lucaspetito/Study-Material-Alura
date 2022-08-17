@@ -1,0 +1,18 @@
+main {
+  width: 940px;
+  margin: auto;
+}
+form {
+  margin: 50px 0;
+}
+form label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+form input{
+    display: block;
+    padding: 10px 25px ;
+    width: 50%;
+}
